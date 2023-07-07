@@ -7,3 +7,15 @@
 ## 工具
 
 * [阿里巴巴图标库](https://www.iconfont.cn/)
+* [即时AI](https://js.design/ai-muses/gallery)
+* [稿定设计](https://www.gaoding.com/)
+
+## 个人主页
+
+* [bento](https://bento.me)
+
+## 通用API
+
+* [https://api.vvhan.com](https://api.vvhan.com/)
+* [https://api.qqsuu.cn](https://api.qqsuu.cn/)
+* [https://www.tianapi.com](https://www.tianapi.com/)
