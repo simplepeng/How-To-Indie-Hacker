@@ -9,6 +9,7 @@
 * [阿里巴巴图标库](https://www.iconfont.cn/)
 * [即时AI](https://js.design/ai-muses/gallery)
 * [稿定设计](https://www.gaoding.com/)
+* [lottie](https://lottiefiles.com/)
 
 ## 个人主页
 
