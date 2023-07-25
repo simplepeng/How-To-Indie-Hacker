@@ -10,6 +10,7 @@
 * [即时AI](https://js.design/ai-muses/gallery)
 * [稿定设计](https://www.gaoding.com/)
 * [lottie](https://lottiefiles.com/)
+* [MacOS App Icons](https://macosicons.com/#/)
 
 ## 数据统计
 
@@ -34,4 +35,10 @@
 [indiehackers](https://www.indiehackers.com/)
 
 ## 一些人
+
+## 一些播客
+
+[新乐：在昆明工作和生活是什么体验？](https://www.xiaoyuzhoufm.com/episode/64bdd23e5680f4d4a889ba38)
+
+> 独立开发者确实应该注意商品和软著的申请，以免被人恶心。
 
