@@ -1,22 +1,25 @@
 # How-To-Indie-Hacker
 
 * [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer)
-
 * [收集整理远程工作相关的资料](https://github.com/greatghoul/remote-working)
 
 ## 工具
 
-* [阿里巴巴图标库](https://www.iconfont.cn/)
 * [即时AI](https://js.design/ai-muses/gallery)
 * [稿定设计](https://www.gaoding.com/)
 * [lottie](https://lottiefiles.com/)
+
+### 图标下载或设计
+
+* [iconbuddy](https://iconbuddy.app/)
+* [阿里巴巴图标库](https://www.iconfont.cn/)
 * [MacOS App Icons](https://macosicons.com/#/)
 
 ## 数据统计
 
 * [App Center](https://install.appcenter.ms/)
 
-## 个人主页
+## 设计个人主页
 
 * [bento](https://bento.me)
 
@@ -34,7 +37,7 @@
 
 [indiehackers](https://www.indiehackers.com/)
 
-## 一些人
+## 一些独立开发者
 
 ## 一些播客
 
