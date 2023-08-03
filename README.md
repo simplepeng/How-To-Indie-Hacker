@@ -32,6 +32,7 @@
 ## 一些文章
 
 [一个独立创造者的五年](https://mp.weixin.qq.com/s/x6PLSIMn_1qcKnXWPT-J-Q)
+[2023 年 7 月全职独立开发的这一个月](https://mp.weixin.qq.com/s/E2A2of2K-RQfpPmS8Nbl-w)
 
 ## 一些网站
 
