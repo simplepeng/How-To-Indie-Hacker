@@ -8,6 +8,7 @@
 * [即时AI](https://js.design/ai-muses/gallery)
 * [稿定设计](https://www.gaoding.com/)
 * [lottie](https://lottiefiles.com/)
+* [audiocraft](https://github.com/facebookresearch/audiocraft) - 文本生成音频
 
 ### 图标下载或设计
 
