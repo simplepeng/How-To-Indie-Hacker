@@ -13,6 +13,7 @@
 * [Canva](https://www.canva.cn/en/) - 简单的插图和平面设计
 * [Adobe Express](https://www.adobe.com/cn/express/)
 * [Microsoft Designer](https://designer.microsoft.com/)
+* [colorfu](https://github.com/pearmini/colorfu) - 国产开源平面设计软件
 
 ### 图标下载或设计
 
