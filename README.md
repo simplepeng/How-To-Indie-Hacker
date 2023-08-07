@@ -9,7 +9,8 @@
 * [稿定设计](https://www.gaoding.com/)
 * [lottie](https://lottiefiles.com/)
 * [audiocraft](https://github.com/facebookresearch/audiocraft) - 文本生成音频
-[站酷](https://www.zcool.com.cn/) - 设计灵感汲取
+* [站酷](https://www.zcool.com.cn/) - 设计灵感汲取
+* [Canva](https://www.canva.cn/en/) - 简单的插图和平面设计
 
 ### 图标下载或设计
 
