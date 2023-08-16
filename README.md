@@ -23,6 +23,7 @@
 * [iconbuddy](https://iconbuddy.app/)
 * [阿里巴巴图标库](https://www.iconfont.cn/)
 * [MacOS App Icons](https://macosicons.com/#/)
+* [flaticon](https://www.flaticon.com/)
 
 ## 数据统计
 
