@@ -18,13 +18,13 @@
 * [colorfu](https://github.com/pearmini/colorfu) - 国产开源平面设计软件
 * [腾讯兔小巢](https://txc.qq.com/) - 免费便捷的用户反馈平台
 
-### 图标下载或设计
+## 图标站
 
 * [iconbuddy](https://iconbuddy.app/)
 * [阿里巴巴图标库](https://www.iconfont.cn/)
 * [MacOS App Icons](https://macosicons.com/#/)
 * [flaticon](https://www.flaticon.com/)
-* [iconpark](https://iconpark.oceanengine.com/home) - IconPark图标库是一个通过技术驱动矢量图标样式的开源图标库，可以实现根据单一SVG源文件变换出多种主题， 具备丰富的分类、更轻量的代码和更灵活的使用场景；致力于构建高质量、统一化、可定义的图标资源，让大多数人都能够选择适合自己的风格图标
+* [iconpark](https://iconpark.oceanengine.com/home)
 
 ## 数据统计
 
@@ -36,13 +36,14 @@
 
 ## 通用API
 
-* [https://api.vvhan.com](https://api.vvhan.com/)
-* [https://api.qqsuu.cn](https://api.qqsuu.cn/)
-* [https://www.tianapi.com](https://www.tianapi.com/)
+* [韩小韩API接口站](https://api.vvhan.com/)
+* [大米Api](https://api.qqsuu.cn/)
+* [天行数据](https://www.tianapi.com/)
 
 ## 一些文章
 
 [一个独立创造者的五年](https://mp.weixin.qq.com/s/x6PLSIMn_1qcKnXWPT-J-Q)
+
 [2023 年 7 月全职独立开发的这一个月](https://mp.weixin.qq.com/s/E2A2of2K-RQfpPmS8Nbl-w)
 
 ## 一些网站
