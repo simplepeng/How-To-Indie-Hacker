@@ -39,6 +39,8 @@
 * [韩小韩API接口站](https://api.vvhan.com/)
 * [大米Api](https://api.qqsuu.cn/)
 * [天行数据](https://www.tianapi.com/)
+* [UomgAPI](https://api.uomg.com/)
+* [TenAPI](https://tenapi.cn/)
 
 ## 一些文章
 
