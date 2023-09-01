@@ -6,7 +6,7 @@
 
 [电鸭社区](https://eleduck.com/)
 
-[中国独立 iOS 和 macOS 开发者图鉴(https://josephchang10.github.io/chinese-indie-hackers/)
+[中国独立 iOS 和 macOS 开发者图鉴](https://josephchang10.github.io/chinese-indie-hackers/)
 
 ## 工具
 
