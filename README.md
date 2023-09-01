@@ -1,9 +1,12 @@
 # How-To-Indie-Hacker
 
-* [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer)
-* [收集整理远程工作相关的资料](https://github.com/greatghoul/remote-working)
-* [电鸭社区](https://eleduck.com/)
-* [中国独立 iOS 和 macOS 开发者图鉴](https://josephchang10.github.io/chinese-indie-hackers/)
+[中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer)
+
+[收集整理远程工作相关的资料](https://github.com/greatghoul/remote-working)
+
+[电鸭社区](https://eleduck.com/)
+
+[中国独立 iOS 和 macOS 开发者图鉴(https://josephchang10.github.io/chinese-indie-hackers/)
 
 ## 工具
 
@@ -69,13 +72,13 @@
 [Luo说不啰嗦](https://twitter.com/LuoSays)
 
 > 两个孩子的超人爸爸，出海淘金的独立创业者。
-
-产品:
-- http://earlybird.im
-- http://tinysnap.app
-- http://heyform.net
-
-千人出海社区：http://link.chuhaiqu.cn/join
+>
+> 产品:
+> - http://earlybird.im
+> - http://tinysnap.app
+> - http://heyform.net
+>
+> 千人出海社区：http://link.chuhaiqu.cn/join
 
 ## 一些播客
 
