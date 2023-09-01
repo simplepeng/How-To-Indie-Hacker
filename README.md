@@ -54,6 +54,14 @@
 
 ## 一些独立开发者
 
+[Baye aka 威力狈](https://twitter.com/waylybaye)
+
+> 一个自由的程序员，独立开发者。做了熊猫吃短信、ServerCat、后续、DAMA。记录生活和开发日常。
+
+[TualatriX](https://twitter.com/tualatrix) - 良渚文化村村民，古法纯手工软件作坊坊主。作品有 Manico、One Switch、PasteNow 等等。最近在做 MarkMark 👉 https://markmark.app
+
+[]()
+
 ## 一些播客
 
 [新乐：在昆明工作和生活是什么体验？](https://www.xiaoyuzhoufm.com/episode/64bdd23e5680f4d4a889ba38)
