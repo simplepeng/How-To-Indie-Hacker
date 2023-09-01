@@ -10,40 +10,57 @@
 
 ## 工具
 
-* [即时AI](https://js.design/ai-muses/gallery)
-* [稿定设计](https://www.gaoding.com/)
-* [lottie](https://lottiefiles.com/)
-* [audiocraft](https://github.com/facebookresearch/audiocraft) - 文本生成音频
-* [站酷](https://www.zcool.com.cn/) - 设计灵感汲取
-* [Canva](https://www.canva.cn/en/) - 简单的插图和平面设计
-* [Adobe Express](https://www.adobe.com/cn/express/)
-* [Microsoft Designer](https://designer.microsoft.com/)
-* [colorfu](https://github.com/pearmini/colorfu) - 国产开源平面设计软件
-* [腾讯兔小巢](https://txc.qq.com/) - 免费便捷的用户反馈平台
+[即时AI](https://js.design/ai-muses/gallery)
+
+[稿定设计](https://www.gaoding.com/)
+
+[lottie](https://lottiefiles.com/)
+
+[audiocraft](https://github.com/facebookresearch/audiocraft) - 文本生成音频
+
+[站酷](https://www.zcool.com.cn/) - 设计灵感汲取
+
+[Canva](https://www.canva.cn/en/) - 简单的插图和平面设计
+
+[Adobe Express](https://www.adobe.com/cn/express/)
+
+[Microsoft Designer](https://designer.microsoft.com/)
+
+[colorfu](https://github.com/pearmini/colorfu) - 国产开源平面设计软件
+
+[腾讯兔小巢](https://txc.qq.com/) - 免费便捷的用户反馈平台
 
 ## 图标站
 
-* [iconbuddy](https://iconbuddy.app/)
-* [阿里巴巴图标库](https://www.iconfont.cn/)
-* [MacOS App Icons](https://macosicons.com/#/)
-* [flaticon](https://www.flaticon.com/)
-* [iconpark](https://iconpark.oceanengine.com/home)
+[iconbuddy](https://iconbuddy.app/)
+
+[阿里巴巴图标库](https://www.iconfont.cn/)
+
+[MacOS App Icons](https://macosicons.com/#/)
+
+[flaticon](https://www.flaticon.com/)
+
+[iconpark](https://iconpark.oceanengine.com/home)
 
 ## 数据统计
 
-* [App Center](https://install.appcenter.ms/)
+[App Center](https://install.appcenter.ms/)
 
 ## 设计个人主页
 
-* [bento](https://bento.me)
+[bento](https://bento.me)
 
 ## 通用API
 
-* [韩小韩API接口站](https://api.vvhan.com/)
-* [大米Api](https://api.qqsuu.cn/)
-* [天行数据](https://www.tianapi.com/)
-* [UomgAPI](https://api.uomg.com/)
-* [TenAPI](https://tenapi.cn/)
+[韩小韩API接口站](https://api.vvhan.com/)
+
+[大米Api](https://api.qqsuu.cn/)
+
+[天行数据](https://www.tianapi.com/)
+
+[UomgAPI](https://api.uomg.com/)
+
+[TenAPI](https://tenapi.cn/)
 
 ## 一些文章
 
