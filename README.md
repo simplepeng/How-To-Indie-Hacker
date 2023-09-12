@@ -10,6 +10,8 @@
 
 [自记账-零基础自己记账报税](https://www.zijizhang.com/)
 
+[GitWork](https://gitwork.cn/) - 一个远程工作平台
+
 ## 工具
 
 [即时AI](https://js.design/ai-muses/gallery)
