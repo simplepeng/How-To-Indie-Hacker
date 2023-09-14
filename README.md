@@ -12,6 +12,8 @@
 
 [GitWork](https://gitwork.cn/) - 一个远程工作平台
 
+[Adobe Firefly](https://firefly.adobe.com/)
+
 ## 工具
 
 [即时AI](https://js.design/ai-muses/gallery)
