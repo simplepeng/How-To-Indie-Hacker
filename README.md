@@ -36,6 +36,8 @@
 
 [腾讯兔小巢](https://txc.qq.com/) - 免费便捷的用户反馈平台
 
+[FontShare](https://www.fontshare.com/) - 高品质英文字体下载网站
+
 ## 图标站
 
 [iconbuddy](https://iconbuddy.app/)
