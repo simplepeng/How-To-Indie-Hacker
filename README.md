@@ -14,6 +14,8 @@
 
 [Adobe Firefly](https://firefly.adobe.com/)
 
+[Free for Developers](https://free-for.dev/#/) - 搜集了程序员需要的各种领域的免费 Sass 服务并且配有简介：类型，永久免费或者试用免费的额度
+
 ## 工具
 
 [即时AI](https://js.design/ai-muses/gallery)
