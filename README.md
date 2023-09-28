@@ -54,6 +54,8 @@
 
 [Yesicon](https://yesicon.app/) - 精选全球高品质、开源、免费的矢量图标库
 
+[icones](https://icones.js.org/)
+
 ## 设计规范
 
 [Material Design](https://m3.material.io/)
