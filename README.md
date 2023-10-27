@@ -97,6 +97,10 @@
 >
 > 千人出海社区：http://link.chuhaiqu.cn/join
 
+[Tibo](https://twitter.com/tibo_maker)
+
+> Building http://tweethunter.io & http://taplio.com to $10m ARR (both acquired) 🚢 sharing all my learnings about startups & audience building - while building new stuff
+
 ## 一些播客
 
 [新乐：在昆明工作和生活是什么体验？](https://www.xiaoyuzhoufm.com/episode/64bdd23e5680f4d4a889ba38)
