@@ -1,22 +1,14 @@
 # How-To-Indie-Hacker
 
-[中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer)
-
-[收集整理远程工作相关的资料](https://github.com/greatghoul/remote-working)
-
-[电鸭社区](https://eleduck.com/)
-
 [中国独立 iOS 和 macOS 开发者图鉴](https://josephchang10.github.io/chinese-indie-hackers/)
+
+## 工具
 
 [自记账-零基础自己记账报税](https://www.zijizhang.com/)
 
-[GitWork](https://gitwork.cn/) - 一个远程工作平台
+[Free for Developers：](https://free-for.dev/#/)搜集了程序员需要的各种领域的免费 Sass 服务并且配有简介：类型，永久免费或者试用免费的额度
 
 [Adobe Firefly](https://firefly.adobe.com/)
-
-[Free for Developers](https://free-for.dev/#/) - 搜集了程序员需要的各种领域的免费 Sass 服务并且配有简介：类型，永久免费或者试用免费的额度
-
-## 工具
 
 [即时AI](https://js.design/ai-muses/gallery)
 
@@ -123,5 +115,16 @@
 
 [新乐：在昆明工作和生活是什么体验？](https://www.xiaoyuzhoufm.com/episode/64bdd23e5680f4d4a889ba38)
 
-> 独立开发者确实应该注意商品和软著的申请，以免被人恶心。
+> 独立开发者确实应该注意商标和软著的申请，以免被人恶心。
 
+## 远程工作相关
+
+[大圣的整理的一条Twitter Thread](https://twitter.com/shengxj1/status/1632317733517004800?t=UuiKMYP0X9ZTuBq0rVNK9A&s=19)
+
+[中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer)
+
+[收集整理远程工作相关的资料](https://github.com/greatghoul/remote-working)
+
+[电鸭社区](https://eleduck.com/)
+
+[GitWork](https://gitwork.cn/)：一个远程工作平台
