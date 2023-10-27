@@ -8,6 +8,14 @@
 
 [中国独立 iOS 和 macOS 开发者图鉴](https://josephchang10.github.io/chinese-indie-hackers/)
 
+[自记账-零基础自己记账报税](https://www.zijizhang.com/)
+
+[GitWork](https://gitwork.cn/) - 一个远程工作平台
+
+[Adobe Firefly](https://firefly.adobe.com/)
+
+[Free for Developers](https://free-for.dev/#/) - 搜集了程序员需要的各种领域的免费 Sass 服务并且配有简介：类型，永久免费或者试用免费的额度
+
 ## 工具
 
 [即时AI](https://js.design/ai-muses/gallery)
@@ -30,6 +38,8 @@
 
 [腾讯兔小巢](https://txc.qq.com/) - 免费便捷的用户反馈平台
 
+[FontShare](https://www.fontshare.com/) - 高品质英文字体下载网站
+
 ## 图标站
 
 [iconbuddy](https://iconbuddy.app/)
@@ -41,6 +51,14 @@
 [flaticon](https://www.flaticon.com/)
 
 [iconpark](https://iconpark.oceanengine.com/home)
+
+[Yesicon](https://yesicon.app/) - 精选全球高品质、开源、免费的矢量图标库
+
+[icones](https://icones.js.org/)
+
+## 设计规范
+
+[Material Design](https://m3.material.io/)
 
 ## 数据统计
 
