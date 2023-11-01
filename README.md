@@ -128,3 +128,5 @@
 [电鸭社区](https://eleduck.com/)
 
 [GitWork](https://gitwork.cn/)：一个远程工作平台
+
+[程序员如何申请到澳洲工作](https://github.com/wahyd4/work-in-australia)
