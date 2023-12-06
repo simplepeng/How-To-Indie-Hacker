@@ -48,9 +48,11 @@
 
 [icones](https://icones.js.org/)
 
-## 设计规范
+## 设计/动效
 
 [Material Design](https://m3.material.io/)
+
+[App Motion](https://appmotion.design/) - App动效收集
 
 ## 数据统计
 
@@ -77,6 +79,8 @@
 [一个独立创造者的五年](https://mp.weixin.qq.com/s/x6PLSIMn_1qcKnXWPT-J-Q)
 
 [2023 年 7 月全职独立开发的这一个月](https://mp.weixin.qq.com/s/E2A2of2K-RQfpPmS8Nbl-w)
+
+[GitHub的榜一大佬晒出存款后，大家却想给他捐钱。](https://mp.weixin.qq.com/s/y2AYcC83KCv2Pi060n_MZg)
 
 ## 一些网站
 
@@ -113,9 +117,11 @@
 
 ## 一些播客
 
-[新乐：在昆明工作和生活是什么体验？](https://www.xiaoyuzhoufm.com/episode/64bdd23e5680f4d4a889ba38)
+[新乐：在昆明工作和生活是什么体验？ - 枫言枫语](https://www.xiaoyuzhoufm.com/episode/64bdd23e5680f4d4a889ba38)
 
 > 独立开发者确实应该注意商标和软著的申请，以免被人恶心。
+
+[独立开发者，该怎样设计你的公司架构 - 津津乐道](https://www.xiaoyuzhoufm.com/episode/656f62a9157b5b7bf357bf97)
 
 ## 远程工作相关
 
@@ -130,3 +136,9 @@
 [GitWork](https://gitwork.cn/)：一个远程工作平台
 
 [程序员如何申请到澳洲工作](https://github.com/wahyd4/work-in-australia)
+
+[软件工程师全球远程工作面试攻略 ：（第一集）知己知彼](https://twitter.com/ArcBlock_io/status/1731596407923196065)
+
+## 字体
+
+[MiSans](https://hyperos.mi.com/font) - 小米可变免费商用字体
