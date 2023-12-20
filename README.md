@@ -48,6 +48,8 @@
 
 [icones](https://icones.js.org/)
 
+[flaticon](https://www.flaticon.com/)
+
 ## 设计/动效
 
 [Material Design](https://m3.material.io/)
