@@ -141,6 +141,8 @@
 
 [软件工程师全球远程工作面试攻略 ：（第一集）知己知彼](https://twitter.com/ArcBlock_io/status/1731596407923196065)
 
+[remote-working](https://github.com/greatghoul/remote-working)
+
 ## 字体
 
 [MiSans](https://hyperos.mi.com/font) - 小米可变免费商用字体
