@@ -143,6 +143,8 @@
 
 [remote-working](https://github.com/greatghoul/remote-working)
 
+[remote|ok](https://remoteok.com/)
+
 ## 字体
 
 [MiSans](https://hyperos.mi.com/font) - 小米可变免费商用字体
