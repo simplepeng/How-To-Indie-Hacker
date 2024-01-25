@@ -8,15 +8,21 @@
 
 [Free for Developers：](https://free-for.dev/#/)搜集了程序员需要的各种领域的免费 Sass 服务并且配有简介：类型，永久免费或者试用免费的额度
 
-[Adobe Firefly](https://firefly.adobe.com/)
+[audiocraft](https://github.com/facebookresearch/audiocraft) - 文本生成音频
+
+[腾讯兔小巢](https://txc.qq.com/) - 免费便捷的用户反馈平台
+
+[FontShare](https://www.fontshare.com/) - 高品质英文字体下载网站
+
+## 设计工具
 
 [即时AI](https://js.design/ai-muses/gallery)
+
+[Adobe Firefly](https://firefly.adobe.com/)
 
 [稿定设计](https://www.gaoding.com/)
 
 [lottie](https://lottiefiles.com/)
-
-[audiocraft](https://github.com/facebookresearch/audiocraft) - 文本生成音频
 
 [站酷](https://www.zcool.com.cn/) - 设计灵感汲取
 
@@ -27,10 +33,6 @@
 [Microsoft Designer](https://designer.microsoft.com/)
 
 [colorfu](https://github.com/pearmini/colorfu) - 国产开源平面设计软件
-
-[腾讯兔小巢](https://txc.qq.com/) - 免费便捷的用户反馈平台
-
-[FontShare](https://www.fontshare.com/) - 高品质英文字体下载网站
 
 ## 图标站
 
