@@ -2,6 +2,8 @@
 
 [中国独立 iOS 和 macOS 开发者图鉴](https://josephchang10.github.io/chinese-indie-hackers/)
 
+[awesome-indiehackers](https://github.com/johackim/awesome-indiehackers)
+
 ## 工具
 
 [自记账-零基础自己记账报税](https://www.zijizhang.com/)
