@@ -80,6 +80,8 @@
 
 [TenAPI](https://tenapi.cn/)
 
+[Public Apis](https://publicapis.io/)
+
 ## 一些文章
 
 [一个独立创造者的五年](https://mp.weixin.qq.com/s/x6PLSIMn_1qcKnXWPT-J-Q)
