@@ -82,6 +82,8 @@
 
 [Public Apis](https://publicapis.io/)
 
+[public-apis-cn](https://github.com/llf007/public-apis-cn)
+
 ## 一些文章
 
 [一个独立创造者的五年](https://mp.weixin.qq.com/s/x6PLSIMn_1qcKnXWPT-J-Q)
