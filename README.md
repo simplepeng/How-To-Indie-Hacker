@@ -98,6 +98,8 @@
 
 [独立开发前线](https://www.91wink.com/)
 
+[1000UserGuide](https://github.com/naxiaoduo/1000UserGuide)
+
 ## 一些独立开发者
 
 [Baye aka 威力狈](https://twitter.com/waylybaye)
